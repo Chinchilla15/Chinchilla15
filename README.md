@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋🏽‍♂️ About Me:
 🎓 I'm currently studying Software Engineering & Robotics at Universidad Evangelica de El Salvador. <br>👨🏽‍💻 I'm also studying with The Odin Project curriculum, JavaScript path.<br>🌐 I'm passionate about Web development and the limitless possibilities it offers!<br>♟️ On my free time I like to read, go for a run, lift weights and play chess :)<br><br>Some random facts:<br>I have a labrador and a chihuahua 🐾<br>I'm a huge music lover 🎵<br>I'm a morning person 🌅
 
 
