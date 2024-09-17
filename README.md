@@ -11,7 +11,7 @@ I'm open to work and looking to gain experience in the tech industry, you can co
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chnchia_)
 
 ## 💼 Visit my portfolio: 
-### <a href="https://chinchilla15.github.io/portfolio/">Alessandro.dev</a>
+### <a href="https://alessandrochinchilla.tech/">Alessandrochinchilla.tech</a>
 
 
 # 💻 Tech Stack:
@@ -22,6 +22,7 @@ I'm open to work and looking to gain experience in the tech industry, you can co
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![AstroJS](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
