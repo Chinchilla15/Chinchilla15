@@ -1,18 +1,36 @@
 # 🙋🏽‍♂️ About Me:
-🎓 I'm currently studying Software Engineering & Robotics at Universidad Evangelica de El Salvador. <br>👨🏽‍💻 I'm also studying with <a href="https://www.theodinproject.com/dashboard">The Odin Project </a>curriculum, JavaScript path.<br>🌐 I'm passionate about Web development and the limitless possibilities it offers!<br>♟️ On my free time I like to read, go for a run, lift weights and play chess :)<br>🎵 I'm a huge music lover <br>🌅 I'm a morning person 
 
+🎓 I'm currently studying Software Engineering & Robotics at Universidad Evangelica de El Salvador. 
+<br/>
+👨🏽‍💻 I'm also studying with <a href="https://www.theodinproject.com/dashboard">The Odin Project </a>curriculum, JavaScript path.
+<br/>
+🌐 I'm passionate about Web development and the limitless possibilities it offers!
+<br/>
+♟️ On my free time I like to read, go for a run, lift weights and play chess 
+<br/>
+🎵 I'm a huge music lover 
+<br/>
+🌅 I'm a morning person
 
 ## 🌐 Let's connect:
 
+<div align="center">
+  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=alessandroch.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-chinchilla-)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/chnchia_)
 
-## 💼 Visit my portfolio: 
+### 💼 Visit my portfolio: 
 ### <a href="https://alessandrochinchilla.tech/">Alessandrochinchilla.tech</a>
+
+</div>
+
 
 
 # 💻 Tech Stack:
+
+<div align="center">
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,14 +49,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
+And more to come!
+</div>
+
 <br>
 
-And more to come!
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Chinchilla15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Chinchilla15&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinchilla15&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=pie)<br/>
-[![Chinchilla's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chinchilla&theme=tokyonight&hide_progress=true&custom_title=Coding...)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="">
+<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Chinchilla15&&show_icons=true&theme=transparent&bg_color=00000000&text_color=0E46A3&icon_color=FF6C22&title_color=FF9209&custom_title=Some+Interesting+Numbers&ring_color=FF6C22&hide_border=false&include_all_commits=false&rank_icon=github&count_private=false"/>
+</a>
+<a href="">
+<img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinchilla15&theme=transparent&hide_border=false"/>
+</a>
+<br/>
+<a href="">
+<img height="" width="480" align=="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinchilla&theme=transparent&layout=compact&langs_count=20&hide_progress=true&display_format=percent&custom_title=Coding..."/>
+</a>
+<a href="">
+<img height="" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinchilla15&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</a>
+
 
 
 ---
