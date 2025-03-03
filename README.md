@@ -66,9 +66,7 @@ And more to come!
 <a href="">
 <img height="" width="480" align=="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinchilla&theme=transparent&layout=compact&langs_count=20&hide_progress=true&display_format=percent&custom_title=Coding..."/>
 </a>
-<a href="">
-<img height="" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinchilla15&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</a>
+
 
 
 
