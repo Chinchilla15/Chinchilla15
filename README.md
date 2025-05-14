@@ -72,5 +72,5 @@ And more to come!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinchilla15&icon=5&color=1)](https://visitcount.itsvg.in)
-
+![ViewCount](https://komarev.com/ghpvc/?username=Chinchilla15&style=for-the-badge)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
