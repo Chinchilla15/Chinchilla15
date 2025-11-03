@@ -1,16 +1,18 @@
 # 🙋🏽‍♂️ About Me:
 
-🎓 I'm currently studying Software Engineering & Robotics at Universidad Evangelica de El Salvador. 
+🎓 I'm pursuing a degree in **Software Engineering & Robotics** at *Universidad Evangélica de El Salvador*.
 <br/>
-👨🏽‍💻 I'm also studying with <a href="https://www.theodinproject.com/dashboard">The Odin Project </a>curriculum, JavaScript path.
+👨🏽‍💻 Currently building awesome things at <a href="https://ravn.co" target="_blank">RAVN</a>.
 <br/>
-🌐 I'm passionate about Web development and the limitless possibilities it offers!
+🧠 Mostly self-taught through the <a href="https://www.theodinproject.com/dashboard" target="_blank">The Odin Project</a> — JavaScript path.
 <br/>
-♟️ On my free time I like to read, go for a run, lift weights and play chess 
+🌐 Passionate about tech as a whole. I often nerd about web development, web3/blockchain, AI, UX/UI, VR and everything in between.
 <br/>
-🎵 I'm a huge music lover 
+♟️ When I’m not coding, you’ll probably find me reading, running, lifting, or playing chess.
 <br/>
-🌅 I'm a morning person
+🎵 I'm a huge music lover, you'll often find me with my headphones on 7 ̅\\ 
+<br/>
+🌅 Definitely a morning person.
 
 ## 🌐 Let's connect:
 
