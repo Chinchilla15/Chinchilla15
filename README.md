@@ -1,8 +1,8 @@
 # 🙋🏽‍♂️ About Me:
 
-🎓 I'm pursuing a degree in **Software Engineering & Robotics** at *Universidad Evangélica de El Salvador*.
+🎓 I'm pursuing a degree in **Software Engineering & Robotics** at Universidad Evangélica de El Salvador.
 <br/>
-👨🏽‍💻 Currently building awesome things at <a href="https://ravn.co" target="_blank">RAVN</a>.
+👨🏽‍💻 Building Latin America's Investment platform: <a href="https://www.tohkn.com/" target="_blank">TOHKN<a/>.
 <br/>
 🧠 Mostly self-taught through the <a href="https://www.theodinproject.com/dashboard" target="_blank">The Odin Project</a> — JavaScript path.
 <br/>
@@ -10,7 +10,7 @@
 <br/>
 ♟️ When I’m not coding, you’ll probably find me reading, running, lifting, or playing chess.
 <br/>
-🎵 I'm a huge music lover, you'll often find me with my headphones on 7 ̅\\ 
+🎵 I'm a huge music lover, you'll often find me with my headphones on. 
 <br/>
 🌅 Definitely a morning person.
 
@@ -72,4 +72,6 @@ And more to come!
 ---
 [![](https://visitcount.itsvg.in/api?id=Chinchilla15&icon=5&color=1)](https://visitcount.itsvg.in)
 ![ViewCount](https://komarev.com/ghpvc/?username=Chinchilla15&style=for-the-badge)
+
+7 ̅\\ 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
